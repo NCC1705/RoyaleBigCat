@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Purchased or sizeable Asset Store Content 
+_aux/*
+Content/Assets/*
+Content/Maps/*
